@@ -1,0 +1,24 @@
+{
+    "name": "web-wiki",
+    "version": "0.1.0",
+    "description": "A library of react, webdesign and css solutions to common questions.",
+    "repository": {
+      "type": "git",
+      "url": "http://localhost"
+    },
+    "keywords": [
+      "boogi",
+      "docs"
+    ],
+    "main": "n/a",
+    "scripts": {
+      "start": "node_modules/.bin/boogi develop",
+      "develop": "node_modules/.bin/boogi develop",
+      "build": "node_modules/.bin/boogi build",
+      "clean": "node_modules/.bin/boogi clean"
+    },
+    "dependencies": {
+        "boogi-cli": "0.4.0"
+    }
+  }
+  
